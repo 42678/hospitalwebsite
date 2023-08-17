@@ -1,0 +1,6 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "cSpell.enableFiletypes": [
+        "php"
+    ]
+}
